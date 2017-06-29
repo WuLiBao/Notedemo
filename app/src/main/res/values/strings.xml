@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">db2</string>
+
+    <string name="diary_edit">编辑</string>
+    <string name="notepad_title">标题:</string>
+    <string name="notepad_body">内容:</string>
+    <string name="notepad_button">确定:</string>
+    <string name="menu_insert">Add</string>
+    <string name="menu_delete">Delete</string>
+    <string name="edit_diary">Edit</string>
+</resources>
